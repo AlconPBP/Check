@@ -4,61 +4,61 @@ const quiz = {
     "name": "Technical Ops Expert-Cust.Facing-Windows",
     "questions": [{
             "type": "short",
-            "question": "1.What is a remote management port for on a physical server (ex. iLO, IPMI or DRAC)",
+            "question": "1.What is a remote management port for on a physical server (ex. iLO, IPMI or DRAC)?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "2.",
+            "question": "2.What is Raw Disk Mapping (RDM) and File Share Witness (FSW) in relation to Clusters?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "3.",
+            "question": "3.What is a Key Management Server (KMS) used for?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "4.",
+            "question": "4.What is a RD License Server?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "5.",
+            "question": "5.What are GPOs?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "6.",
+            "question": "6.What are CIS Benchmarks?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "7.",
+            "question": "7.How can you determine which GPO(s) are being applied to a specific user?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "8.",
+            "question": "8.What is DMZ?",
             "entered": [],
             "answers": []
         },,
         {
             "type": "short",
-            "question": "9.",
+            "question": "9.What command in PowerShell would you use to display the output of a query in a table, as opposed to a list?",
             "entered": [],
             "answers": []
         },
         {
             "type": "short",
-            "question": "10.",
+            "question": "10.What is a CMDLET? Provide an example that creates a variable containing service, sorted by Status",
             "entered": [],
             "answers": []
         }
